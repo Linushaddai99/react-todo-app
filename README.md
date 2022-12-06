@@ -130,7 +130,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Install
 
-> Install this project with:
+> Install this project with steps:
 
 ```
 cd react-todo-app
