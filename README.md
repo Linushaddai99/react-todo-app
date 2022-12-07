@@ -182,7 +182,7 @@ Example command:
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="Core-features"></a>
+## 🔭 Core Features <a name="code-features"></a>
 
 >
 
