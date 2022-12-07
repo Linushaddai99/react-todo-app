@@ -182,12 +182,12 @@ Example command:
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="Core-features"></a>
 
 >
 
-- **Calculate Maths Functions**
-- **Basic Navigation in react**
+- **Edit Todo**
+- **Save Todo to Local Storage**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
