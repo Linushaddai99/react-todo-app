@@ -6,7 +6,6 @@ import TodosList from './TodosList';
 
 const TodoContainer = () => {
   function getInitialTodos() {
-    // getting stored items
     const temp = localStorage.getItem('todos');
     const savedTodos = JSON.parse(temp);
     return savedTodos || [];
